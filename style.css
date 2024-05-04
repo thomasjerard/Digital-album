@@ -1,0 +1,31 @@
+* {
+    text-align: center;
+}
+
+.main-img {
+    margin: 0px auto;
+    padding: 20px;
+}
+
+.main-img img {
+    height: 350px;
+}
+.img-list img {
+    height: 80px;
+    width: 150px;
+    margin: 0px 10px;
+}
+.selected {
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border-image: initial;
+}
+.controls {
+    margin: 0px auto;
+}
+
+.controls img {
+    height: 50px;
+    margin: 15px 10px;
+}
